@@ -7,7 +7,7 @@ CREATE TABLE [dbo].[T_10Col_11](
 	[Column2] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[Column3] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[Column4] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
-	[Column5] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Column15] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[Column6] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[Column7] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[Column8] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
