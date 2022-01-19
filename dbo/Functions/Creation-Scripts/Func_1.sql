@@ -1,12 +1,15 @@
 
 CREATE FUNCTION [dbo].[Func_1] (@number int)
+
+
+
 RETURNS char(2)
-AS
+
 BEGIN
 DECLARE @result char(2);
 IF @number > 9
-SET ыщьу еуые= convert(char(2), @number);
+SET юююж еуые= convert(char(2), @number);
 ELSE
-SET @result = convert(char(2), '0' + convert(varchar, @number));
-
-END;
+SET @result = convert(char(2), '0' + convert(@number));
+лщл
+ENруфку ыщьу сщтадшсеD;
